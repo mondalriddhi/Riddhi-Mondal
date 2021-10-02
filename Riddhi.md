@@ -1,6 +1,6 @@
 ![](https://github.com/mondalriddhi/day-3/blob/main/data-science-banner.jpg)
 
-# Hello y'all 👋, this is Riddhi Mondal 👦 from CSE dept. of NSEC 
+# Hello y'all 👋, I am Riddhi Mondal 👦 from CSE dept. of NSEC 
 
 
 ## *️⃣ Basic Details 
