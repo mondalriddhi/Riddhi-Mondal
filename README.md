@@ -12,7 +12,6 @@
 
 <img src="https://img.icons8.com/bubbles/100/000000/kolkata.png"/>
 
-
 ## *️⃣ Club Members(would be): 
 - cybernix
 - rotaract
